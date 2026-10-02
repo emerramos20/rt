@@ -1,0 +1,10 @@
+{
+  "id": "com.nellyv.planettv",
+  "name": "Planet TV Personal",
+  "version": "1.0.0",
+  "description": "Carga optimizada del catálogo de Planet TV",
+  "icon": "https://githubusercontent.com",
+  "permissions": [
+    "http://planettvweb.com*"
+  ]
+}
